@@ -1,4 +1,4 @@
-= module.import("../KeliLanguage.corelib.0.0.1-b/Boolean.keli")
+= module.import("../KeliLanguage.corelib.0.0.1-c/Boolean.keli")
 
 (this Boolean).xor(that Boolean) =
     this.

@@ -2,7 +2,7 @@
     "node": "v10.6.0",
     "dependencies": [
         {
-            "tag": "0.0.1-b",
+            "tag": "0.0.1-c",
             "url": "https://github.com/KeliLanguage/corelib.git"
         }
     ],
