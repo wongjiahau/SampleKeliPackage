@@ -1,0 +1,16 @@
+= module.import("../KeliLanguage.corelib.0.0.1-b/Boolean.keli")
+
+(this Boolean).xor(that Boolean) =
+    this.
+        case(True):
+            (that.
+                case(True):
+                    (Boolean.False)
+                case(False):
+                    (Boolean.True))
+        case(False):
+            (that.
+                case(True):
+                    (Boolean.True)
+                case(False):
+                    (Boolean.False))

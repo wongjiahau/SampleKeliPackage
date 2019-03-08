@@ -1,0 +1,13 @@
+{
+    "node": "v10.6.0",
+    "dependencies": [
+        {
+            "tag": "0.0.1-b",
+            "url": "https://github.com/KeliLanguage/corelib.git"
+        }
+    ],
+    "os": "linux",
+    "git": "git version 2.7.4",
+    "arch": "x86_64",
+    "compiler": "0.0.1"
+}
